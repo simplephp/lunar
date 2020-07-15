@@ -1,0 +1,22 @@
+{
+    "name": "since/lunar",
+    "description": "新历农历日期互转",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhan",
+            "email": "1140099248@qq.com"
+        }
+    ],
+    "minimum-stability": "dev-master",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "since\\": "src/"
+        }
+    }
+}
