@@ -9,7 +9,7 @@
             "email": "1140099248@qq.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "php": "^7.0"
