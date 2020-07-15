@@ -4,7 +4,7 @@
 农历某天从春节至今的天数
 ## 安装
 
-> composer require since/Lunar dev-master 
+> composer require since/lunar dev-master 
 
 ### 调用例子
 ```
